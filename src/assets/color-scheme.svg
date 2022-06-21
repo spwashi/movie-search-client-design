@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 75" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 75" width="100%">
     <defs>
         <style>
             .color--neutral_highlight { fill: #c8d6e6; }
@@ -14,7 +14,7 @@
         </style>
     </defs>
     <g>
-        <g class="first">
+        <g>
             <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
             <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
             <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
@@ -106,7 +106,7 @@
                 <text class="color--accent_main" x="0" y="75">Abc</text>
             </svg>
         </g>
-        <g class="second">
+        <g>
             <svg width="75" height="10" y="0" x="525" viewBox="0 0 600 75">
                 <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
                 <rect class="color--dark" y="0" x="75" width="75" height="75"/>
