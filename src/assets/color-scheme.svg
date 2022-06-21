@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 -100 600 200" width="10000px"
+     height="2000px">
+    <defs>
+        <style>
+            .cls-1 { fill: #c8d6e6; }
+            .cls-2 { fill: #8f9fab; }
+            .cls-3 { fill: #aebac3; }
+            .cls-4 { fill: #e2dddb; }
+            .cls-5 { fill: #edd9a6; }
+            .cls-6 { fill: #1e4361; }
+            .cls-7 { fill: #38353b; }
+            .cls-8 { fill: #842c2a; }
+text {
+            font-size: 75;
+            }
+        </style>
+    </defs>
+    <g>
+        <g class="first">
+            <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+            <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+            <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+            <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+            <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+            <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+            <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+            <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            <svg height="6" width="2" y="20" x="0" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="75" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="150" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="225" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="300" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="375" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="450" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+            <svg height="6" width="2" y="20" x="525" viewBox="0 0 10 60">
+                <text class="cls-1" x="75" y="525">Abc</text>
+                <text class="cls-2" x="75" y="450">Abc</text>
+                <text class="cls-3" x="75" y="375">Abc</text>
+                <text class="cls-4" x="75" y="300">Abc</text>
+                <text class="cls-5" x="75" y="225">Abc</text>
+                <text class="cls-6" x="75" y="150">Abc</text>
+                <text class="cls-7" x="75" y="75">Abc</text>
+                <text class="cls-8" x="75" y="0">Abc</text>
+            </svg>
+        </g>
+        <g class="second">
+            <svg width="7.5" height="2" y="0" x="525" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="450" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="375" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="300" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="225" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="150" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="75" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+            <svg width="7.5" height="2" y="0" x="0" viewBox="0 0 60 10">
+                <rect class="cls-1" y="0" x="525" width="75" height="75"/>
+                <rect class="cls-2" y="0" x="450" width="75" height="75"/>
+                <rect class="cls-3" y="0" x="375" width="75" height="75"/>
+                <rect class="cls-4" y="0" x="300" width="75" height="75"/>
+                <rect class="cls-5" y="0" x="225" width="75" height="75"/>
+                <rect class="cls-6" y="0" x="150" width="75" height="75"/>
+                <rect class="cls-7" y="0" x="75" width="75" height="75"/>
+                <rect class="cls-8" y="0" x="0" width="75" height="75"/>
+            </svg>
+        </g>
+    </g>
+</svg>
