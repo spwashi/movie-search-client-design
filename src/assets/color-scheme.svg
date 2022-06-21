@@ -3,189 +3,315 @@
     <defs>
         <style>
             .color--neutral_highlight { fill: #c8d6e6; }
-            .color--neutral_midtone { fill: #8f9fab; }
-            .color--neutral_average { fill: #aebac3; }
-            .color--light { fill: #e2dddb; }
-            .color--accent_light { fill: #edd9a6; }
-            .color--accent_dark { fill: #1e4361; }
-            .color--dark { fill: #38353b; }
-            .color--accent_main { fill: #842c2a; }
+            .color--neutral_midtone-- { fill: #8f9fab; }
+            .color--neutral_average-- { fill: #aebac3; }
+            .color--light------------ { fill: #e2dddb; }
+            .color--accent_light----- { fill: #edd9a6; }
+            .color--accent_dark------ { fill: #1e4361; }
+            .color--dark------------- { fill: #38353b; }
+            .color--accent_main------ { fill: #842c2a; }
+        </style>
+        <style>
             text { font-size: 75px; }
         </style>
     </defs>
     <g>
         <g>
-            <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-            <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-            <rect class="color--light" y="0" x="300" width="75" height="75"/>
-            <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-            <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-            <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-            <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-        </g>
-        <g>
-            <svg height="60" width="25" y="10" x="0" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="0.0" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--accent_main------"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="75" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="75." viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--dark-------------"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="150" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="150" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--accent_dark------"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="225" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="225" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--accent_light-----"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="300" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="300" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--light------------"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="375" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="375" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--neutral_average--"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="450" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
+            <svg height="75" width="75" y="0" x="450" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--neutral_midtone--"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
-            <svg height="60" width="25" y="10" x="525" viewBox="0 0 100 600">
-                <text class="color--neutral_highlight" x="0" y="600">Abc</text>
-                <text class="color--neutral_midtone" x="0" y="525">Abc</text>
-                <text class="color--neutral_average" x="0" y="450">Abc</text>
-                <text class="color--light" x="0" y="375">Abc</text>
-                <text class="color--accent_light" x="0" y="300">Abc</text>
-                <text class="color--accent_dark" x="0" y="225">Abc</text>
-                <text class="color--dark" x="0" y="150">Abc</text>
-                <text class="color--accent_main" x="0" y="75">Abc</text>
-            </svg>
-        </g>
-        <g>
-            <svg width="75" height="10" y="0" x="525" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="450" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="375" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="300" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="225" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="150" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="75" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
-            </svg>
-            <svg width="75" height="10" y="0" x="0" viewBox="0 0 600 75">
-                <rect class="color--accent_main" y="0" x="0" width="75" height="75"/>
-                <rect class="color--dark" y="0" x="75" width="75" height="75"/>
-                <rect class="color--accent_dark" y="0" x="150" width="75" height="75"/>
-                <rect class="color--accent_light" y="0" x="225" width="75" height="75"/>
-                <rect class="color--light" y="0" x="300" width="75" height="75"/>
-                <rect class="color--neutral_average" y="0" x="375" width="75" height="75"/>
-                <rect class="color--neutral_midtone" y="0" x="450" width="75" height="75"/>
-                <rect class="color--neutral_highlight" y="0" x="525" width="75" height="75"/>
+            <svg height="75" width="75" y="0" x="525" viewBox="-75 -75 675 675">
+                <g class="background">
+                    <rect width="675" height="675" y="-75" x="-75" class="color--neutral_highlight"/>
+                </g>
+                <g class="swatches">
+                    <g class="horizontal">
+                        <rect width="75" height="75" x="0.0" y="-75" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="75." y="-75" class="color--dark-------------"/>
+                        <rect width="75" height="75" x="150" y="-75" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="225" y="-75" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="300" y="-75" class="color--light------------"/>
+                        <rect width="75" height="75" x="375" y="-75" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="450" y="-75" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="525" y="-75" class="color--neutral_highlight"/>
+                    </g>
+                    <g class="vertical">
+                        <rect width="75" height="75" x="-75" y="0.0" class="color--accent_main------"/>
+                        <rect width="75" height="75" x="-75" y="75." class="color--dark-------------"/>
+                        <rect width="75" height="75" x="-75" y="150" class="color--accent_dark------"/>
+                        <rect width="75" height="75" x="-75" y="225" class="color--accent_light-----"/>
+                        <rect width="75" height="75" x="-75" y="300" class="color--light------------"/>
+                        <rect width="75" height="75" x="-75" y="375" class="color--neutral_average--"/>
+                        <rect width="75" height="75" x="-75" y="450" class="color--neutral_midtone--"/>
+                        <rect width="75" height="75" x="-75" y="525" class="color--neutral_highlight"/>
+                    </g>
+                </g>
+                <g class="text">
+                    <text x="0" y="75." class="color--accent_main------">Abc</text>
+                    <text x="0" y="150" class="color--dark-------------">Abc</text>
+                    <text x="0" y="225" class="color--accent_dark------">Abc</text>
+                    <text x="0" y="300" class="color--accent_light-----">Abc</text>
+                    <text x="0" y="375" class="color--light------------">Abc</text>
+                    <text x="0" y="450" class="color--neutral_average--">Abc</text>
+                    <text x="0" y="525" class="color--neutral_midtone--">Abc</text>
+                    <text x="0" y="600" class="color--neutral_highlight">Abc</text>
+                </g>
             </svg>
         </g>
     </g>
