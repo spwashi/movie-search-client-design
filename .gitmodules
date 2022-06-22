@@ -1,0 +1,3 @@
+[submodule "src/branding/color/color-scheme-builder"]
+	path = src/branding/color/color-scheme-builder
+	url = https://github.com/spwashi/color-scheme-builder.git
